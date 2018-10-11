@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+table,td,th{
+    border:1px solid black;
+    border-collapse:collapse;
+    color:tomato;
+    font-size:20px;
+    text-align:center;
+}
+table th{
+    color:slateblue;
+}
